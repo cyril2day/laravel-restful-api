@@ -49,7 +49,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        Schema::defaultStringLength(200); // Default String Length on Database
+        Schema::defaultStringLength(120); // Default String Length on Database
         $this->registerPolicies();
         /**
          * Register Observers
