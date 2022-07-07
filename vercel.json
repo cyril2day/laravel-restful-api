@@ -12,7 +12,7 @@
     "env": {
         "APP_NAME": "Endevour Backend",
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://laravel-restful-api-hawodtech.vercel.app",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
